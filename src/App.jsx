@@ -6,7 +6,7 @@ import Work from "./components/Work/Work";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import BlurBlob from './components/BlurBlob';
-import Certificate from "./components/certificate/certificate";
+import Certificate from "./components/Certificate/Certificate";
 
 const App = () => {
   return (
@@ -31,3 +31,4 @@ const App = () => {
 };
 
 export default App;
+
