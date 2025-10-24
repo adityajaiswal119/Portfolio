@@ -3,7 +3,7 @@
 Get a copy running on your local machine.
 
 # Clone this repository
-git clone https://github.com/your-username/your-portfolio-repo.git
+git clone https://github.com/adityajaiswal119/Portfolio
 
 # Navigate to project directory
 cd your-portfolio-repo
@@ -13,3 +13,4 @@ npm install
 
 # Start development server
 npm start
+
