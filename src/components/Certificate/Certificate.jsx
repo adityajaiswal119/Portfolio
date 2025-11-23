@@ -1,7 +1,10 @@
 import NPTEL_CERT from "../../assets/certificate_logo/NPTEL_CERT.png";
 import cert2 from "../../assets/certificate_logo/Infosys.png";
 import cert3 from "../../assets/certificate_logo/google.png";
-
+import cert4 from "../../assets/certificate_logo/REACT.png";
+import cert5 from "../../assets/certificate_logo/nvidea.png";
+import cert6 from "../../assets/certificate_logo/GENAI.png";
+import cert7 from "../../assets/certificate_logo/CRYPTO.png";
 const certificate = [
   {
     title: "Fundamental Of Operating System",
@@ -21,6 +24,30 @@ const certificate = [
     year: "2024",
     img: cert3,
   },
+   {
+    title: "Advance React",
+    issuer: "Coursera",
+    year: "2025",
+    img: cert4,
+  },
+  {
+    title: "Fundamentals of Deep Learning",
+    issuer: "NVIDEA",
+    year: "2025",
+    img: cert5,
+  },
+  {
+    title: "Programming with Genrative AI",
+    issuer: "NPTEL",
+    year: "2025",
+    img: cert6,
+  },
+  {
+    title: "Cryptography and Network Security",
+    issuer: "NPTEL",
+    year: "2025",
+    img: cert7,
+  }
 ];
 
 const Certificate = () => {
